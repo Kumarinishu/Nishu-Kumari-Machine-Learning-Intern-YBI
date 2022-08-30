@@ -1,5 +1,5 @@
 # YBI Foundation Internship Program 
-# LGMVIP-Data Science Intern-18th-July-22
+# Machine Learning Intern-18th-July-22
 
 **Submitted by:**
 NISHU KUMARI
@@ -8,9 +8,7 @@ NISHU KUMARI
 
 **IDE :** Colab
 
-
-                           
-                               **Beginner Level**                      
+                                                                          
 # TASK-1
 
 **Linear versus Polynomial Regression**
@@ -41,7 +39,7 @@ Dataset link : https://raw.githubusercontent.com/ybifoundation/Dataset/main/Adul
 Dataset Link : https://www.dropbox.com/s/6qcgvoc6h8y8zb2/CreditCardDefault.csv?dl=1
 
 
-                                    **Intermediate Level**    
+                                    
 # TASK-5
 
 **Diabetes Prediction**
@@ -56,7 +54,7 @@ Dataset Link : https://github.com/ybifoundation/Dataset/raw/main/Diabetes.csv
 Dataset Link :  https://www.dropbox.com/s/aa37fjiyy63l2h7/UsedCarPrice.csv?dl=1
 
 
-                                        **Advanced Level**
+                                        
 # TASK-7
 
 **Thyroid disease Prediction**
