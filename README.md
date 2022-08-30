@@ -78,12 +78,14 @@ Dataset Links : True News: https://www.dropbox.com/s/l6gojm6mn9rosdo/True%20News
 
 Dataset Link : https://www.dropbox.com/s/ltksjtb54wrov5q/HeartDisease.csv?dl=1
 
-
-
-                                     **More Advanced Level**
+                                  
 # TASK-10
 
 **Black Friday Sales Prediction**
 
 Dataset Link: https://www.dropbox.com/s/b173516z9mye1z7/BlackFridaySalesPrediction.csv?dl=1
+
+
+
+   If you have any query and suggestions feel free to contact with me...))☺☺
 
