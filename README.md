@@ -1,6 +1,6 @@
 # YBI Foundation Internship Program 
 # Machine Learning Intern
-**Batch:** 18th,July-22
+**Batch:** 18th-July-22
 
 **Submitted by:**
 NISHU KUMARI
